@@ -1,0 +1,1532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\introduction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\introduction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\introductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\introductionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\couponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\services\\appidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\services\\appidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\services\\sendmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\services\\sendmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\comments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\detailorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\detailorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\buyrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\buyrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\addtocartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\addtocartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\selectedproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\selectedproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\viewmodel\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\viewmodel\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\cartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\introduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_productlistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\extendmethods\\modelstateextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\extendmethods\\modelstateextend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\assets\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\assets\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\assets\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\assets\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\_alertmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\_alertmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\areas\\admin\\views\\revenuereport\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\areas\\admin\\views\\revenuereport\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\repository\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\migrations\\20240527035734_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\migrations\\20240527035734_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\extendmethods\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\extendmethods\\customauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\extendmethods\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\extendmethods\\authorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|d:\\laptrinhweb\\new folder (2)\\doan_coso1\\doan_coso1\\doan_coso\\doan_coso\\doan_coso\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D243A-80A1-4AA5-B493-097E13AEEFBB}|Doan_Coso\\Doan_Coso.csproj|solutionrelative:doan_coso\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1032,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Doan_Coso\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAiwJwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:24:11.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\News.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\News.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\News.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\News.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:40:50.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:16:06.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAEUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T09:59:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAH4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T10:00:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Doan_Coso\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAOkBAAAAAAAAAAAiwDUBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:24:13.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAJsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:41:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:37:25.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CouponsController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\CouponsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:15:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Doan_Coso\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:27:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_HeaderPartial.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_HeaderPartial.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_HeaderPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:50:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:40:01.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Introduction.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Introduction.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\Introduction.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Introduction.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\Introduction.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T09:46:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntroductionsController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\IntroductionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:16:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:34:52.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T13:27:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Repository\\Repo.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Repository\\Repo.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Repository\\Repo.cs",
+              "RelativeToolTip": "Doan_Coso\\Repository\\Repo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:05:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Helper\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Helper\\SessionExtensions.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Helper\\SessionExtensions.cs",
+              "RelativeToolTip": "Doan_Coso\\Helper\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:33:18.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Helper\\Utilities.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Helper\\Utilities.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Helper\\Utilities.cs",
+              "RelativeToolTip": "Doan_Coso\\Helper\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:33:23.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppIdentityErrorDescriber.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Services\\AppIdentityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Services\\AppIdentityErrorDescriber.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Services\\AppIdentityErrorDescriber.cs",
+              "RelativeToolTip": "Doan_Coso\\Services\\AppIdentityErrorDescriber.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAHwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:05:59.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SendMailService.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Services\\SendMailService.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Services\\SendMailService.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Services\\SendMailService.cs",
+              "RelativeToolTip": "Doan_Coso\\Services\\SendMailService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:32:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T09:07:46.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:16:54.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwDIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:17:05.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:23:50.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:52:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Order.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Order.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:45.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Orderdetail.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Orderdetail.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Orderdetail.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Orderdetail.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Orderdetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:41.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:14:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Product.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Product.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:16:47.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:49:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Comments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Comments\\Details.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Comments\\Details.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Comments\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:50:52.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwGsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T08:44:51.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:44:40.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAiwIsBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T13:28:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Doan_Coso\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAQwOgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:24:08.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BuyRequestModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\BuyRequestModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\BuyRequestModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\BuyRequestModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\BuyRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:56:46.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\CheckoutViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\CheckoutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:44:13.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\CartViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\CartViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:55:33.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DetailOrders.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\DetailOrders.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\DetailOrders.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\DetailOrders.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\DetailOrders.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAH0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T13:30:50.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddToCartViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\AddToCartViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\AddToCartViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\AddToCartViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\AddToCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:57:10.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:56:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\OrderItemViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\OrderItemViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\OrderItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:56:09.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:52:16.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:55:54.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\ProductListViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\ProductListViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\ProductListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:52:20.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\OrderViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:33:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SelectedProductModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\SelectedProductModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\SelectedProductModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\SelectedProductModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\SelectedProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:55:51.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ViewModel\\UserProfileViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ViewModel\\UserProfileViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ViewModel\\UserProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:55:42.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwE0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:44:16.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\appsettings.json",
+              "RelativeDocumentMoniker": "Doan_Coso\\appsettings.json",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\appsettings.json",
+              "RelativeToolTip": "Doan_Coso\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T03:54:20.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:44:37.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Comment.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Comment.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Comment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:47.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Category.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Category.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:09:38.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Brand.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Brand.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:38.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CartDetails.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\CartDetails.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\CartDetails.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\CartDetails.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\CartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:06:47.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Role.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Role.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:10:19.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\User.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\User.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:10:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Introduction.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Introduction.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\Introduction.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\Introduction.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\Introduction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:46.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\News.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\News.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\News.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:45.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ProductListPartial.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_ProductListPartial.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_ProductListPartial.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_ProductListPartial.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAFgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:45:00.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\OrderDetails.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\OrderDetails.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHkAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T13:31:39.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ModelStateExtend.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\ModelStateExtend.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\ExtendMethods\\ModelStateExtend.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\ModelStateExtend.cs",
+              "RelativeToolTip": "Doan_Coso\\ExtendMethods\\ModelStateExtend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:32:49.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "register.css",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\assets\\css\\register.css",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\assets\\css\\register.css",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\assets\\css\\register.css",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\assets\\css\\register.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T16:43:31.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:55:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T06:49:39.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T08:25:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "login.css",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\assets\\css\\login.css",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\assets\\css\\login.css",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\assets\\css\\login.css",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\assets\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T16:05:23.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:14:42.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:45:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_FooterPartial.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_FooterPartial.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_FooterPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:45:22.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_AlertMessage.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_AlertMessage.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\_AlertMessage.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\_AlertMessage.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\_AlertMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:45:23.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:49:43.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:49:50.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:49:47.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:49:39.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T07:45:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "RelativeDocumentMoniker": "Doan_Coso\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "RelativeToolTip": "Doan_Coso\\Areas\\Admin\\Views\\RevenueReport\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T07:17:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Program.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Program.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Program.cs",
+              "RelativeToolTip": "Doan_Coso\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:22:54.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Doan_Coso\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Doan_Coso\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T06:13:37.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Doan_Coso\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:06:19.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Repository\\IRepo.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Repository\\IRepo.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Repository\\IRepo.cs",
+              "RelativeToolTip": "Doan_Coso\\Repository\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:05:43.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CustomAuthorizationHandler.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\CustomAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\ExtendMethods\\CustomAuthorizationHandler.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\CustomAuthorizationHandler.cs",
+              "RelativeToolTip": "Doan_Coso\\ExtendMethods\\CustomAuthorizationHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:05:29.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AuthorizationService.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\AuthorizationService.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\ExtendMethods\\AuthorizationService.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\ExtendMethods\\AuthorizationService.cs",
+              "RelativeToolTip": "Doan_Coso\\ExtendMethods\\AuthorizationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T06:05:25.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240527035734_v1.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Migrations\\20240527035734_v1.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Migrations\\20240527035734_v1.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Migrations\\20240527035734_v1.cs",
+              "RelativeToolTip": "Doan_Coso\\Migrations\\20240527035734_v1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:57:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "a92710da-84ff-45c2-9655-f4156991284b.png",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\images\\products\\0\\a92710da-84ff-45c2-9655-f4156991284b.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T05:48:52.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "2db371bc-7972-40e6-a416-71029f1db7f1.png",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\images\\products\\0\\2db371bc-7972-40e6-a416-71029f1db7f1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T05:48:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "24052423-9b9c-4c8d-bf76-08c5f8d00154.png",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\images\\products\\0\\24052423-9b9c-4c8d-bf76-08c5f8d00154.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T05:48:37.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\images\\products\\0\\0411fa21-fe2e-46a4-b6e7-bf3d6e353dbf.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T05:48:21.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png",
+              "RelativeDocumentMoniker": "Doan_Coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png",
+              "RelativeToolTip": "Doan_Coso\\wwwroot\\images\\products\\0\\06da0cd6-ad5a-4c3c-b77c-6fd339e61663.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-27T05:48:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Doan_Coso\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:24:24.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Doan_Coso.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs",
+              "ToolTip": "D:\\LapTrinhWEB\\New folder (2)\\Doan_CoSo1\\Doan_CoSo1\\Doan_Coso\\Doan_Coso\\Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs",
+              "RelativeToolTip": "Doan_Coso\\obj\\Debug\\net8.0\\Doan_Coso.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:23:15.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+﻿body {
+    background-image: url('/img/l.jpg'); /* Correct path relative to the root */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff; /* Change text color to white for contrast against dark background */
+}
+
+.card-container {
+    position: absolute;
+    width: 900px;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for the card */
+}
+
+.card-body {
+    padding: 30px;
+}
+
+h4 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-success {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 5px;
+    height: 45px;
+}
+
+.btn-primary {
+    width: 100%;
+    border-radius: 5px;
+    height: 45px;
+}
+
+p {
+    text-align: center;
+}
+
+    p a {
+        color: #17a2b8; /* Change link color for better visibility on dark background */
+    }
+
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+    .checkbox label {
+        margin-bottom: 0;
+    }
